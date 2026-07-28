@@ -1,0 +1,25 @@
+   day = 01
+why we using the sql?
+   S = stuctured( organized data)
+   Q = query(pre defined syntax)
+   L = language(communicacte)
+
+  sql  is used to communicate or interact  with the database.
+  To storing and acccessing the data. 
+which the places using the sql?
+  development,testing,data analytics,datascience,machinelearning,ai, etc.....
+
+   day = 02
+what is the application?
+  It is the combination of frontend and backend.
+  frontend = send the request to the server.
+  backend = server can send to the  database and retrive or store the data.
+
+    day = 03
+what is database?
+  it is the medium or place to store the data in the organized or systamatic  manner.
+  It can perform the CRUD operations.
+  C - create and insert, R - retrive(or)read, U - update(or)modify, D - delete(or)drop.
+what is data?
+  The raw facts which describe the attributes  of an entity.
+  entity=object,attributes=properties.
