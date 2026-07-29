@@ -9,7 +9,7 @@ why we using the sql?
 which the places using the sql?
   development,testing,data analytics,datascience,machinelearning,ai, etc.....
 
-   day = 02
+   day = 02 
 what is the application?
   It is the combination of frontend and backend.
   frontend = send the request to the server.
