@@ -22,4 +22,4 @@ what is database?
   C - create and insert, R - retrive(or)read, U - update(or)modify, D - delete(or)drop.
 what is data?
   The raw facts which describe the attributes  of an entity.
-  entity=object,attributes=properties.
+  entity=object,attributes=properties .
