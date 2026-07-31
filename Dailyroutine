@@ -15,7 +15,8 @@ what is the application?
   frontend = send the request to the server.
   backend = server can send to the  database and retrive or store the data.
 
-    day = 03
+     day = 03
+
 what is database?
   it is the medium or place to store the data in the organized or systamatic  manner.
   It can perform the CRUD operations.
@@ -23,3 +24,38 @@ what is database?
 what is data?
   The raw facts which describe the attributes  of an entity.
   entity=object,attributes=properties .
+
+       day = 04
+
+what is DBMS ?
+  It is the software used to manage the database.
+  It can store the data in the file format.
+  The Query language is sed for the communication to the DBMS.
+types of DBMS
+    Network DBMS = to store the data in the semistructured format.
+    Object oriented DBMS = to store the data in the semistructured. 
+    Heirarical DBMS = to store the data in the semistructred.
+    Relational DBMS = to store the dat in the structured format.
+Features:
+    security
+    authorization
+Disadvantages:
+    more space consumption.
+    more time take to retrive the data in file.
+what is RDBMS ?
+    It is type of dbms , to store the data in the table format.
+    It can use the structured query language for the communication.
+    To avoid the disadvantage of DBMS to move on to the RDBMS.
+Features:
+    security
+   Authorization.
+
+     day = 05
+
+HISTORY   OF  RDBMS
+ 
+
+
+
+
+
